@@ -17,7 +17,7 @@
 <body class="${pageProperty(name:'body.class')?:'nav-collections'}" id="${pageProperty(name:'body.id')}" onload="${pageProperty(name:'body.onload')}" >
 <g:set var="fluidLayout" value="${grailsApplication.config.skin.fluidLayout?.toBoolean()}"/>
 
-<div class="navbar navbar-static-top" style="margin-bottom: 35px">
+<div class="navbar navbar-fixed-top" style="margin-bottom: 35px">
     <div class="navbar-inner">
         <div class="container">
             <a class="btn btn-navbar" data-target=".navbar-responsive-collapse" data-toggle="collapse">
