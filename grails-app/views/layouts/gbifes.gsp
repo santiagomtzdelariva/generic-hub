@@ -101,7 +101,7 @@
                                     <a href="#">Càtala</a>
                                 </li>
                                 <li>
-                                    <a href="#">Inglés</a>
+                                    <a href="#">English</a>
                                 </li>
                                 <li>
                                     <a href="#">Español</a>
