@@ -98,13 +98,13 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="#">Càtala</a>
+                                    <langs:selector langs="ca"/>
                                 </li>
                                 <li>
-                                    <a href="#">English</a>
+                                    <langs:selector langs="en"/>
                                 </li>
                                 <li>
-                                    <a href="#">Español</a>
+                                    <langs:selector langs="es"/>
                                 </li>
                             </ul>
                         </li>
