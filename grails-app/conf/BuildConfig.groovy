@@ -9,7 +9,7 @@ grails.project.source.level = 1.6
 //grails.project.war.file = "target/${appName}-${appVersion}.war"
 //grails.plugin.location.'biocache-hubs' = "../biocache-hubs"
 grails.plugin.location.'biocache-hubs' = "plugins/biocache-hubs-es"
-//grails.plugin.location.'lang-selector' = "plugins/lang-selector-0.3"
+grails.plugin.location.'lang-selector' = "plugins/lang-selector-0.3"
 
 grails.project.fork = [
     // configure settings for compilation JVM, note that if you alter the Groovy version forked compilation is required
