@@ -98,7 +98,22 @@ grails {
         }
     }
 }
- 
+
+com.mfelix.grails.plugins.langSelector.lang.flags = ["es":"es",
+                                                     "en":"gb",
+                                                     "fr":"fr",
+                                                     "da":"dk",
+                                                     "de":"de",
+                                                     "it":"it",
+                                                     "ja":"jp",
+                                                     "nl":"nl",
+                                                     "ru":"ru",
+                                                     "th":"th",
+                                                     "zh":"cn",
+                                                     "pt":"pt",
+                                                     "ca":"catalonia"
+]
+
 grails.converters.encoding = "UTF-8"
 // scaffolding templates configuration
 grails.scaffolding.templates.domainSuffix = 'Instance'
