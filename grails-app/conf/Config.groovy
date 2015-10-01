@@ -40,8 +40,10 @@ skin.footerUrl = "classpath:resources/generic-footer.jsp" // can be external URL
 skin.fluidLayout = true // true or false
 chartsBgColour = "#FFFFFF"
 // 3rd part WMS layer to show on maps
-map.overlay.url = ""
-map.overlay.name = ""
+map.overlay.url= "http://wms.magrama.es/sig/Biodiversidad/ENP/wms.aspx?"
+map.overlay.name="Espacios Naturales Protegidos"
+map.overlay.layer="0"
+
 
 /******************************************************************************\
  *  MISC
